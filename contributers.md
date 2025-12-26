@@ -53,5 +53,6 @@
 |Kunwar Gaba | kunwargaba10 |IIIT Allahabad|
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  |
 |Vishal|Cosmic-Viz|IIIT Allahabad|
+|Sujal Kshatri            |suzzzal                   |NIT Raipur                                                     |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
