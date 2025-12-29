@@ -44,7 +44,7 @@
 | Ayush Mishra           | ayush-mg                | IIIT Allahabad                                                   |
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
-|Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
+|Aditya Singh            | adityasingh-0803         | Bharati Vidyapeeth Pune                                                      |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
